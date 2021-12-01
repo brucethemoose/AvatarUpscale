@@ -1,4 +1,4 @@
-The Blu Ray release of Avatar: The Last Airbender doesn't look great. So I'm gathering info on my previous attempts to upscale and clean up Avatar: The Last Airbender in one place, in the hopes of improving on the Blu Ray release. 
+I'm gathering info on my previous attempts to upscale and clean up Avatar: The Last Airbender in one place, in the hopes of improving on the (IMO) subpar ATLA Blu Ray Release
 
 ## Communities/Links
 * GameUpscale Discord: https://discord.gg/cpAUpDK
